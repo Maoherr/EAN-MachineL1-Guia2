@@ -6,8 +6,9 @@ Aspectos a Revisar:
 Sugerencias:
 Para mejorar el enfoque y análisis del sobreajuste, se podría:
 
-Implementar técnicas de regularización o ajuste de hiperparámetros en los modelos.
-Dividir los datos en conjuntos de entrenamiento, validación y prueba para evaluar cómo los modelos generalizan a nuevos datos.
+- Implementar técnicas de regularización o ajuste de hiperparámetros en los modelos.
+- Dividir los datos en conjuntos de entrenamiento, validación y prueba para evaluar cómo los modelos generalizan a nuevos datos.
+
 En general, este proyecto está bien orientado, y con una implementación adecuada de técnicas de mitigación del sobreajuste, como la validación cruzada o el ajuste de parámetros en modelos complejos
 
 - MENDOZA RODRIGUEZ ESTEFANIA
